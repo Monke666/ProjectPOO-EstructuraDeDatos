@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons8-abrir-carpeta-512.png</file>
+        <file>icons8-cerrar-ventana-96.png</file>
+        <file>icons8-cortar-96.png</file>
+        <file>icons8-guardar-96.png</file>
+        <file>icons8-pegar-96.png</file>
+        <file>icons8-programación-96.png</file>
+        <file>icons8-copiar-96.png</file>
+        <file>icons8-por-nueva-copia-96.png</file>
+    </qresource>
+</RCC>
