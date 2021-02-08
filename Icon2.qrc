@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>icons8-lista-de-verificación-96.png</file>
+        <file>logo-ups-home.png</file>
+        <file>Back.jpg</file>
+    </qresource>
+</RCC>
